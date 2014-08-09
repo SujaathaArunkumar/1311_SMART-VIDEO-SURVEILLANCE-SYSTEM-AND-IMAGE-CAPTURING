@@ -1,0 +1,13 @@
+							PROJECT EXECUTION STEPS
+
+	1. Start the Eclipse.
+	2.Run the Tomcat server.
+	3.Update IP  with current address in String Values at Video Surveillance Package.
+	4.Open the SQLyog Community Database. 
+	5.Run Video Surveillance Package as Android Application to generate APK file.
+	6.Install the Generated APK in Android Device.
+	7.Open the Application for Sign up and View image.
+	8.After signing up,open SQLyog and ensure that your registration was updated in Database.
+	9.Run the MotionDetection Package as Java Application to Capture Image.
+	10.Use Android Device to view the Detected image Via Installed Video surveillance Application.
+ 
